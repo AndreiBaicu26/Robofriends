@@ -1,7 +1,5 @@
 # robofriends
-Tutorial for udemy course - React
-To run the project:
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+Made this while learning from a Udemy tutorial for Web Development.
+
+I used React framework and Redux for this search functionality
