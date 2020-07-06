@@ -1,5 +1,10 @@
-# robofriends
+# Robofriends app
 
-Made this while learning from a Udemy tutorial for Web Development.
+This app was developed while starting to learn React from a Udemy course.
 
-I used React framework and Redux for this search functionality
+# What I learnt?
+- Basics of react 
+- Component lifecycle
+- basics of redux 
+- Imporved my JS coding ability
+- Publishing a web app
